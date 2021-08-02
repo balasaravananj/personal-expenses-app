@@ -1,4 +1,4 @@
-# Personal Expenses App
+# Personal Expense Manager
 
 A new Flutter project.
 
