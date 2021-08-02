@@ -1,16 +1,22 @@
-# Personal Expense Manager
+# Personal Expenses Manager
+An Android mobile application which allows users to add and maintain their day-to-day expenses.
 
-A new Flutter project.
+# Feautures of this Application
+* User can sign in/sign up using their mail-id.
 
-## Getting Started
+<img src="images/login.png" height="300"> <img src="images/signup.png" height="300">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+* With the help of the chart provided in the application, user can keep track of their past seven days expenses without any difficulties. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="images/screen_view.png" height="300">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* This UI-Friendly App has unique layout for both portrait and landscape mode.
+
+<img src="images/screen_view.png" height="300">  
+
+<img src="images/landscape_view_chart.png" width="300"> <img src="images/landscape_view_list.png" width="300">
+
+# Technologies Used
+* Flutter / Dart
+* Firebase
